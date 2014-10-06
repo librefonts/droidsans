@@ -1,0 +1,66 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Droid Sans
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Digitized data copyright © 2007, Google Corporation.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00 build 112
+    Vendor: Ascender Corporation
+    Vendor url: http://www.ascendercorp.com/
+    Designer url: http://www.ascendercorp.com/typedesigners.html
+    Glyph count: 211
+    Character count: 207
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+  Font:
+    Common name: Droid Sans
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Digitized data copyright © 2007, Google Corporation.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00 build 113
+    Vendor: Ascender Corporation
+    Vendor url: http://www.ascendercorp.com/
+    Designer url: http://www.ascendercorp.com/typedesigners.html
+    Glyph count: 211
+    Character count: 207
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
